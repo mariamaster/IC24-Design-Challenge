@@ -1,5 +1,5 @@
 # IC24-Design-Challenge
-UMD Info Challenge
+### UMD Info Challenge
 
 **Team**: 24003
 
