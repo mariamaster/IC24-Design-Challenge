@@ -6,3 +6,5 @@
 **Team members**: Maria M., Victoria U., and Joshlyn C.
 
 **Design Challenge**: Voting Candidate Matching Tool
+
+**Award**: Outstand Design Project
