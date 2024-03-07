@@ -7,4 +7,4 @@
 
 **Design Challenge**: Voting Candidate Matching Tool
 
-**Award**: Outstand Design Project
+**Award**: Outstanding Design Project Winner
