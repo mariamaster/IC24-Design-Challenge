@@ -1,4 +1,4 @@
-# IC24-Design-Challenge
+# IC24 Design Challenge (Winner - Design Track)
 ### UMD Info Challenge
 
 **Team**: 24003
